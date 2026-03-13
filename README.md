@@ -13,7 +13,7 @@
 ### 💻 Stack
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=py,ts,solidity,rust,go" />
+<img src="https://skillicons.dev/icons?i=py,ts,solidity,rust" />
 
 #### Tools & Environment
 <img src="https://skillicons.dev/icons?i=linux,git,docker,nextjs,pytorch,aws" />

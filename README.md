@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=header&text=0xGeN02&fontSize=50&fontColor=a78bfa&fontAlignY=65&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Smart+Contracts+%7C+DeFi+%7C+Blockchain+%7C+Security;Machine+Learning+%26+Data+Science;I+use+Arch+btw)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Smart+Contracts+%7C+DeFi+%7C+Blockchain+%7C+Security;Machine+Learning+%26+Data+Science+%7C+Quantitative+Analysis;I+use+Arch+btw)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ### 💻 Stack
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=py,ts,solidity,rust" />
+<img src="https://skillicons.dev/icons?i=py,ts,solidity,rust,cpp,latex" />
 
 #### Tools & Environment
 <img src="https://skillicons.dev/icons?i=linux,git,docker,nextjs,pytorch,aws" />
